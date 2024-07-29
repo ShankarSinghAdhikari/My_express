@@ -1,2 +1,2 @@
 # always ignore node_modules in our project
-node_modules
+node_modules/
